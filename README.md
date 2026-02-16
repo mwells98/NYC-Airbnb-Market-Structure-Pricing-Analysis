@@ -129,6 +129,7 @@ Log transformation was used due to significant right skew (mean = $212 vs median
 
 ## Project Structure
 
+```
 ├── exploratory_report.ipynb
 ├── explanatory_report.ipynb
 ├── exploratory_report.html
@@ -137,6 +138,7 @@ Log transformation was used due to significant right skew (mean = $212 vs median
 │ ├── raw/
 │ └── clean/
 └── README.md
+```
 
 ---
 
